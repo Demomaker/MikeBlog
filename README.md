@@ -1,4 +1,4 @@
-# Demomaker Blog
+# Mike Blog
 
-This is the repository for my blog!
-[Website](https://blog.demomaker.net)
+Le blog à Mike!
+[Site web](https://portfolio.mikebedard.ca)
