@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Demomaker's Blog
-description: Hello, I'm Demomaker. Welcome to my blog.
-github_username: Demomaker
+title: Blog à Mike Bédard
+description: Bonjour, je suis Mike Bédard. Ceci est mon blog.
+github_username:
 
 # Email and twitter are optional:
 email:
-twitter_username: DemomakerMC
+twitter_username:
 
 # Set this to true to get LaTeX math equation support
 use_math: true
