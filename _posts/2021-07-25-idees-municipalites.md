@@ -21,7 +21,7 @@ Toute municipalité a besoin d'un endroit pour faire réparer son véhicule et u
 
 ### 4. Services informatiques
 
-Toute municipalité a besoin de quelqu'un qui a de l'atout en informatique. Peut importe le service informatique offert, il est toujours rassurant pour quelqu'un de pouvoir allez à l'informaticien et faire réparer ses appareils électroniques.
+Toute municipalité a besoin de quelqu'un qui a de l'atout en informatique. Peu importe le service informatique offert, il est toujours rassurant pour quelqu'un de pouvoir allez à l'informaticien et faire réparer ses appareils électroniques.
 
 ### 5. Coiffeur
 
@@ -81,7 +81,7 @@ Toute municipalité devrait avoir un photographe et un vidéographe, pour permet
 
 ### 0. Autres
 
-Toute municipalité a besoin d'entreprises qui ne se spécialisent pas nécessairement dans l'offre de services à la municipalité. Par exemple, une usine est un fort attraillant pour l'emploi dans une municipalité, quoique la majorité des biens produits ne sont pas utilisés par les gens locaux. Ainsi, il est primordial pour une municipalité de contenir une entreprise comme ceci pour attirer des personnes de l'extérieur qui ont peut-être déjà tous les services que votre municipalité offre.
+Toute municipalité a besoin d'entreprises qui ne se spécialisent pas nécessairement dans l'offre de services à la municipalité. Par exemple, une usine est un fort attraillant pour l'emploi dans une municipalité, quoique la majorité des biens produits ne sont pas utilisés par les gens locaux. Ainsi, il est primordial pour une municipalité de contenir une entreprise comme ceci pour attirer des travailleurs de l'extérieur qui ont peut-être déjà tous les services que votre municipalité offre.
 
 Des entreprises comme cela devraient être capable de soutenir un grand nombre d'employés et ainsi générer des revenus à la municipalité, ce qui peut aider par la suite pour offrir d'autres services par la municipalité.
 
@@ -119,7 +119,7 @@ Toute municipalité a besoin d'une manière de mettre à jour la population sur 
 
 ### 0. Autres
 
-Le plus important à retenir c'est que pour qu'une municipalité connaisse une bonne communauté, il faut offrir des services qui sont en demande par cette communauté. Ainsi, il sert à rien de construire une piscine si aucune personne s'en sert. Également, si beaucoup de gens demandent un service, il serait bien de l'offir. Par exemple, si les gens demandent espace commercial ou un changement de zonage, il serait préférable de le faire, quoique le développement durable, qui est un type de développement entrepris par certaines municipalités veut minimiser l'utilisation de ressources, pour en garder le plus possible pour les générations du futur. Ainsi, il n'y a pas une seule réponse à ce qu'une municipalité a besoin, il faut simplement quelle réponde aux attentes des gens qui y habitent.
+Le plus important à retenir c'est que pour qu'une municipalité connaisse une bonne communauté, il faut offrir des services qui sont en demande par cette communauté. Ainsi, il sert à rien de construire une piscine si aucune personne s'en sert. Également, si beaucoup de gens demandent un service, il serait bien de l'offrir. Par exemple, si les gens demandent un espace commercial ou un changement de zonage, il serait préférable de le faire. Cependant, le développement durable, qui est un type de développement entrepris par certaines municipalités, veut minimiser l'utilisation de ressources, pour en garder le plus possible pour les générations du futur. Ainsi, il n'y a pas une seule réponse à ce qu'une municipalité a besoin, il faut simplement qu'elle réponde aux attentes des gens qui y habitent.
 
 ## Idées pour les gens de tous les jours
 
