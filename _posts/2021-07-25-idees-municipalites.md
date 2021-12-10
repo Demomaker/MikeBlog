@@ -87,7 +87,7 @@ Des entreprises comme cela devraient être capable de soutenir un grand nombre d
 
 ## Idées pour la municipalité
 
-Parlant de services venant de municipalités, voici une liste d'idées pour une municipalité qui veut garder ou améliorer la santé économique et sociale de sa communauté.
+Parlant de services venant de municipalités, voici une liste d'idées pour une municipalité qui veut garder ou améliorer la santé économique et sociale de sa communauté. Cette liste inclut des idées de services à offrir.
 
 ### 1. Aménagement d'infrastructures permettant de faciliter le déplacement de personnes
 
@@ -116,6 +116,14 @@ Toute municipalité devrait être capable de consulter sa population. C'est logi
 ### 7. Créer un site web et/ou une façon de diffuser de l'information municipale à la population
 
 Toute municipalité a besoin d'une manière de mettre à jour la population sur ce qui se passe dans la municipalité. Sans cela, la population pourrait demander des changements sans être au courant que ces changements ont déjà été réalisés.
+
+### 8. Aréna
+
+Un aréna permet à une municipalité d'offrir des activités sportives sans se soucier du temps qu'il fait dehors. Sans ceci, il y a peu de chances que des équipes sportives pouvant faire connaître votre municipalité puissent devenir assez bon pour compétitionner dans des niveaux supérieurs.
+
+### 9. Organiser des événements culturels
+
+Une municipalité a besoin d'événements culturels pour garder sa population active et réunir ses habitants sans se préoccuper du sérieux qui se passe en-dehors de ces événements.
 
 ### 0. Autres
 
